@@ -1,2 +1,4 @@
 # desafio-copilot2
 Desafio de criação de um agente com fluxo de conversa personalizado no Copilot, parte do bootcamp "Suzano - Python Developer #2" realizado ago/set 2025
+
+A criação de um novo agente no Copilot Studio é bem intuitivo para a maioria das funções básicas, sendo fácil a criação de um novo agente seguindo as opções mostradas na plataforma. Após ciração de tópicos e fluxo de conversas, opções e criações de variáveis na interação com o usuário, são várias opções para configurar e melhorar as respostas para aquele tópico em específico, inclusive com várias configurações para a IA generativa para que as respostas sejam mais específicas para o assunto, tópico ou fluxo de conversa em questão. No geral se mostrou como uma boa ferramenta para customização com versatilidade para atender diversas necessidades diferentes.
